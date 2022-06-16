@@ -6,7 +6,7 @@ import  Img_2 from '../images/images.png'
 function Section5(){
     return(
         <div className='sec_3_inner_div'>
-        <div className='inner_sec_text'>
+        <div className='main_inner'>
             <h1 className='inn_text'>Listen. Like it? Back it. Push it!</h1><br /><br />
             <p className='inn_para'>Trust your ear. If you like a song you can support the artist to make it a hit.
 

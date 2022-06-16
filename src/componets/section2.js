@@ -10,12 +10,12 @@ function Section2(){
         <div className="sec_2">
 
 <div className='sec_2_top_div' >
-<div> 
+<div className='center_sec'> 
     <img src={Img1}  className='img_sec_2'/>
 <span >Explore</span>
 </div>
 
-<div>
+<div className='center_sec'>
 
 <img src={Img2}  className='img_sec_2'/>
 <span >of artist</span>
@@ -26,7 +26,7 @@ function Section2(){
 
 <div className='sec_2_flex_img'>
     
-<div>
+<div className='center_sec'>
 <img src={Img5} className="flex_img"/>
 <h3>CREATE FAN CAMPAIGN</h3>
 <p>Invite your fans to get support for your next release
@@ -39,7 +39,7 @@ function Section2(){
 
 </div>
 
-<div>
+<div className='center_sec'>
 <img src={Img4} className="flex_img"/>
 <h3>CREATE FAN CAMPAIGN</h3>
 <p>Invite your fans to get support for your next release
@@ -47,11 +47,11 @@ function Section2(){
 </p>
 </div>
 
-<div>
+<div className='center_sec'>
 <img src={Zix} className="flex_img zixzax"/>
 </div>
 <div></div>
-<div>
+<div className='Iner_Divs'>
 <img src={Img3} className="flex_img "/>
 <h3>CREATE FAN CAMPAIGN</h3>
 <p>Invite your fans to get support for your next release

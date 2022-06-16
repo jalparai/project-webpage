@@ -6,10 +6,10 @@ import  Img_2 from '../images/images.png'
 function Section6(){
     return(
         <div className='sec_3_inner_div'>
-             <div className="inner_sec_img_2" id='mob_img'>
-            <img src={Img1} className="img_sec4" />
+            <div className="inner_sec_img_2">
+            <img src={Img1} className="img_sec4" id='last_pic'  />
         </div>
-        <div className='inner_sec_tex_3' id='last_text'>
+          <div className="last_main">
             <br /><br />
             <h1 className='inn_text'>Now music can be truly shared</h1><br /><br />
             <p className='inn_para3'>Corite gives everyone daily data on how the music is streamed worldwide.

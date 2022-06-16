@@ -9,7 +9,7 @@ function Section4(){
              <div className="inner_sec_img_2" id='mob_img'>
             <img src={Img1} className="img_sec4" />
         </div>
-        <div className='inner_sec_tex_2'>
+        <div className='main_inner_2'>
             <h1 className='inn_text'>Complete control for artists</h1><br /><br />
             <p className='inn_para'>You decide the size of your own royalty advance and keep all the rights. Distribution included!</p>
             <br />
@@ -17,8 +17,7 @@ function Section4(){
            <button className='start_btn'>
             Start
            </button>
-           {/* <img src={Img_2} className="app_logo"/> */}
-        </div>
+         </div>
        
     </div>
     
