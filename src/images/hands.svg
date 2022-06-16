@@ -1,0 +1,38 @@
+<svg width="90" height="90" viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="45" cy="45" r="45" fill="#FFDB5B" />
+  <mask id="mask0" x="0" y="0" width="90" height="90">
+    <circle cx="45" cy="45" r="45" fill="#FFFFFF" />
+  </mask>
+  <g mask="url(#mask0)">
+    <path d="M31.3066 28.8587H26.9045V55.7609L31.3066 45.9783V28.8587Z" fill="#B7917B" />
+    <path d="M43.3857 53.6209C44.0751 52.9183 44.151 51.8187 43.5647 51.0281C42.9969 50.2625 41.9679 50.0038 41.1056 50.4099L20.7031 60.0175L30.2885 66.968L43.3857 53.6209Z"
+          fill="#B7917B" />
+    <rect width="4.40217" height="23.4783" transform="matrix(-1 0 0 1 25.4355 23.9674)" fill="#B7917B" />
+    <rect width="4.40217" height="24.4565" transform="matrix(-1 0 0 1 19.5664 26.413)" fill="#B7917B" />
+    <rect width="4.40217" height="14.6739" transform="matrix(-1 0 0 1 13.6973 33.2609)" fill="#B7917B" />
+    <path d="M31.3066 45.7337L9.29577 47.6902L11.2523 67.0109H30.3284L31.3066 45.7337Z" fill="#B7917B" />
+    <circle r="2.20109" transform="matrix(-1 0 0 1 29.1056 28.6141)" fill="#B7917B" />
+    <circle r="2.20109" transform="matrix(-1 0 0 1 23.2345 23.7228)" fill="#B7917B" />
+    <circle r="2.20109" transform="matrix(-1 0 0 1 17.3653 26.1685)" fill="#B7917B" />
+    <circle r="2.20109" transform="matrix(-1 0 0 1 11.4962 33.0163)" fill="#B7917B" />
+    <rect width="19.0761" height="26.9022" transform="matrix(-1 0 0 1 30.3281 67.0109)" fill="#6F6C78" />
+    <path d="M58.7324 28.8587H63.1346V55.7609L58.7324 45.9783V28.8587Z" fill="#B7917B" />
+    <path d="M46.6514 53.6209C45.962 52.9183 45.8861 51.8187 46.4724 51.0281C47.0402 50.2625 48.0692 50.0038 48.9315 50.4099L69.334 60.0175L59.7487 66.968L46.6514 53.6209Z"
+          fill="#B7917B" />
+    <rect x="64.6016" y="23.9674" width="4.40217" height="23.4783" fill="#B7917B" />
+    <rect x="70.4707" y="26.413" width="4.40217" height="24.4565" fill="#B7917B" />
+    <rect x="76.3418" y="33.2609" width="4.40217" height="14.6739" fill="#B7917B" />
+    <path d="M58.7324 45.7337L80.7433 47.6902L78.7868 67.0109H59.7107L58.7324 45.7337Z" fill="#B7917B" />
+    <circle cx="60.9335" cy="28.6141" r="2.20109" fill="#B7917B" />
+    <circle cx="66.8027" cy="23.7228" r="2.20109" fill="#B7917B" />
+    <circle cx="72.6718" cy="26.1685" r="2.20109" fill="#B7917B" />
+    <circle cx="78.5429" cy="33.0163" r="2.20109" fill="#B7917B" />
+    <rect x="59.6758" y="67.0109" width="19.0761" height="26.9022" fill="#6F6C78" />
+  </g>
+  <path d="M27.1504 11.7583L30.6853 17.5273" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M34.2383 8.80438L36.1948 15.1631" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M41.6191 7.24304L42.2291 13.8338" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M63.502 11.7583L59.9671 17.5273" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M56.4141 8.80438L54.4575 15.1631" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M49.0332 7.24304L48.4233 13.8338" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
